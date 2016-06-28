@@ -1,5 +1,5 @@
 # Butterfly
-This project is a sample project made with Taylor Otwell, **Laravel PHP Framework** and VueJS to the Frontend side to build a simple PHP blog.
+This project is a sample project made with Taylor Otwell, **Laravel PHP Framework** in the Backend side and **VueJS Framework** in the Frontend side to build a simple PHP blog.
 
 See [Laravel github repository](https://github.com/laravel/laravel).
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
