@@ -63,11 +63,11 @@ return [
     | Supported: "database", "eloquent"
     |
     */
-
+@
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => Butterfly\User::class,
+            'model' => Butterfly\Models\User::class,
         ],
 
         // 'users' => [

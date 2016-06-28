@@ -1,6 +1,6 @@
 <?php
 
-namespace Butterfly;
+namespace Butterfly\Models;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
